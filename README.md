@@ -55,7 +55,7 @@ The app fetches photos from a public API, displays them in a responsive grid, al
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repo-url>
+git clone (https://github.com/JarmanKingra/celebrate-gallery)
 cd celebrare-photo-gallery
 npm install
 ```
